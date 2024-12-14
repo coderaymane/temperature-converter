@@ -17,4 +17,5 @@ Choose between Celsius (C) or Fahrenheit (F).
 Receive the converted temperature in the other unit.
 Restart the program or quit.
 This project is perfect for beginners looking to practice Python fundamentals such as loops, conditionals, and user input handling while creating a practical utility.
+
 ![codesnap](https://github.com/user-attachments/assets/67ebe14b-7da3-4ddf-a14c-3c9207a92e44)
